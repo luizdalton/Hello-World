@@ -14,11 +14,11 @@ A príncipio, este repositório será o meu bloco de anotação público, para q
 - Aprimorar habilidades técnicas e de documentação de projetos de engenharia de software.
 
 ## Projetos
+### Propostos
+
 ### Concluidos
 
 ### Em andamento
-
-### Propostos
 
 ## Conclusão
 Se você gostou do que viu, e tiver interessado em contribuir ou solicitar ajuda em algum projeto, entre em contato, estarei disposto a contribuir e aceitar novos desafios!
