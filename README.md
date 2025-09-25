@@ -1,5 +1,5 @@
 # Hello-World
-Esse é meu primeiro repositório criado no github, hello world!
+Esse é meu primeiro repositório criado no github!
 
 ## Sobre mim
 Sou um estudante de Engenharia de Computação, amante de tecnologia da informação, videogames, inovação e inteligencia artificial, e pretendo por meio deste repositório, manter registros de metas e projetos os quais estarei realizando o versionamento a partir do ano de 2025.
